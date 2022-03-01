@@ -1,0 +1,8 @@
+{
+  "name": "local-robloxian",
+  "author": "hacktheegg <jarrahvanritten@gmail.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
